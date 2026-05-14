@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FFF8DC</color>
+    <string name="app_name">Virasat-Namma Guide</string>
+    <style name="Theme.VirasatNamma" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#FFF8DC</item>
+        <item name="android:navigationBarColor">#FFF8DC</item>
+    </style>
+</resources>
